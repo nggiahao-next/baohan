@@ -1,0 +1,28 @@
+.gioithieu
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: #f2f2f2;
+}
+.gioithieu h1
+{
+    font-size: 40px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+.gioithieu p
+{
+    font-size: 18px;
+    line-height: 1.5;
+    margin-bottom: 20px;
+}
+.gioithieu img
+{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    margin-bottom: 20px;
+}

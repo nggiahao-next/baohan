@@ -1,0 +1,28 @@
+.footer {
+    background-color: #A4A4A4;
+    width: 950px;
+    height: 300px;
+  }
+  .footersection{
+    width: 100%;
+    height: 215px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+  }
+  .copyright{
+    width: 100%;
+    background-color: #ffb200;
+    height: 85px;
+  }
+  .item3{
+    background-color: #055541;
+    width: 100%;
+    height: 300px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+  }
+  
